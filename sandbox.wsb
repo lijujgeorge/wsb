@@ -1,5 +1,5 @@
 <Configuration>
-<networking>Disable</networking>
+<Networking>Disable</Networking>
 <MappedFolders>
    <MappedFolder>
      <HostFolder>d:\data</HostFolder>
@@ -7,6 +7,6 @@
    </MappedFolder>
 </MappedFolders>
 <LogonCommand>
-   <Command>explorer.exe C:\users\lijug\Downloads</Command>
+   <Command>explorer.exe C:\Users\WDAGUtilityAccount\Documents</Command>
 </LogonCommand>
 </Configuration>
