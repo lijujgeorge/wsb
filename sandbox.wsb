@@ -1,0 +1,12 @@
+<Configuration>
+<networking>Disable</networking>
+<MappedFolders>
+   <MappedFolder>
+     <HostFolder>d:\data</HostFolder>
+     <ReadOnly>false</ReadOnly>
+   </MappedFolder>
+</MappedFolders>
+<LogonCommand>
+   <Command>explorer.exe C:\users\lijug\Downloads</Command>
+</LogonCommand>
+</Configuration>
